@@ -1,6 +1,9 @@
 # Changelog
 All notable changes since 0.5.1 in the texture pack will be documented in this MD text file.
 
+## [0.5.2] - Drogoz Update - 2020-06-20
+- Added Drogoz texture for Alde per his request.
+
 ## [0.5.1] - QOL Additions - 2020-06-20
 - Slightly replaced all potion textures
 - Added camouflaging creepers
