@@ -1,6 +1,11 @@
 # Changelog
 All notable changes since 0.5.1 in the texture pack will be documented in this MD text file.
 
+## [0.8.0] Season 2 Update - 2020-07-04
+- Added textures for everyone
+- Removed all armor and weapon textures
+- Removed old pigstep disc (will stay as strad until we find a replacement)
+
 ## [0.7.0] - Ultimate Armors - 2020-06-24
 - Added textures for all ultimate armors
   - Ultimate armors include the Yoba Armor Set, and the Dragonsbane Armor Set
