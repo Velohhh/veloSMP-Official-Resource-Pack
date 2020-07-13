@@ -1,6 +1,22 @@
 # Changelog
 All notable changes since 0.5.1 in the texture pack will be documented in this MD text file.
 
+## [0.9.0] Stardust Update - 2020-07-13
+- Added textures for 3 artifacts and 1 Ultimate Weapon which are:
+  - Proxima Centauri, the blade
+  - Stardust Glue, literally glue
+  - Rigil Kentaurus, the hilt
+  - Alpha Centauri, the Ultimate Weapon
+- Added elytra textures for:
+  - HellWing for Mirza
+  - Aeon Soul for Alde
+  - Molten Forged Elytra for Revan
+  - Dreiton for Velo
+- Slightly edited the Netherite Helmet texture so it's less Roman.
+- Fixed Parsa's texture
+- Haven't found a replacement for C418 - Wait
+- Prepared pack for Official Release [0.1.0]!
+
 ## [0.8.0] Season 2 Update - 2020-07-04
 - Added textures for everyone
 - Removed all armor and weapon textures
