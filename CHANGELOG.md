@@ -15,6 +15,7 @@ All notable changes since 0.5.1 in the texture pack will be documented in this M
 - Slightly edited the Netherite Helmet texture so it's less Roman.
 - Fixed Parsa's texture
 - Haven't found a replacement for C418 - Wait
+- Changed pack.png
 - Prepared pack for Official Release [0.1.0]!
 
 ## [0.8.0] Season 2 Update - 2020-07-04
