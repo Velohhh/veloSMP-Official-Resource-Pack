@@ -1,6 +1,6 @@
-# veloSMP Official Resource Pack
-The veloSMP Official Resource Pack.
+# veloEnhanced
+veloEnhanced is a resource pack I use when I play survival Minecraft.
 
-This resource pack is for my Minecraft Survival Multiplayer Server, veloSMP.
+This resource pack is also the official resource pack for my Minecraft Survival Multiplayer Server, veloSMP.
 
-If you'd like to see the changelogs of the veloSMP Official Resource Pack just click CHANGELOG.md to display it!
+If you'd like to see the changelogs of veloEnhanced just click CHANGELOG.md to display it!
