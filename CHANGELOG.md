@@ -1,6 +1,73 @@
 # Changelog
 All notable changes since 0.5.1 in the texture pack will be documented in this MD text file.
 
+## [1.0.0] Absolutely Amazing Release
+- Improved the sun again
+- Improved the texture of polished blackstone, making it more volcanic
+- Updated the credits section
+- Replaced end crystal texture
+- Replaced end crystal beam texture
+- Compressed all record files
+- Added loading screens when you move between dimensions
+- Changed panorama again to something more beautiful (R.I.P. Bedrock Edition Panorama)
+- Replaced enchanted item glint
+- Replaced underwater blur
+- Slightly modified all particles
+- Slightly modified all the paintings
+- Turned all purpur and shulkers into their more purple variants
+- Replaced mushrooms with their 3D versions
+- Slightly modified all iron textures
+  - This includes nearly everything made with iron
+- Added chicken variants
+  - Chicken variants include Mallards, ender chickens, etc.
+- Replaced the night sky
+- Replaced the loading screen (the mojang one) to a dark mode one
+- Added more blockstate textures
+  - The textures included are:
+    - Bamboo 				[Stage 1]
+    - Beehive 			[Honey Level 0-5]
+    - Bee Nest 			[Honey Level 0-5]
+    - Cactus				[Age 15]
+    - Chorus Flower		[Age 0-5]
+    - Acacia Sapling		[Stage 0-1]
+    - Birch Sapling		[Stage 0-1]
+    - Dark Oak Sapling	[Stage 0-1]
+    - Jungle Sapling		[Stage 0-1]
+    - Oak Sapling			[Stage 0-1]
+    - Spruce Sapling		[Stage 0-1]
+    - Sugar Cane			[Age 15]
+    - Twisting Vines		[Age 25]
+    - Weeping Vines		[Age 25]
+- Replaced all doors with glass doors, except for the iron door
+- Replaced the logo
+- Edited the pack.mcmeta
+- Replaced the HUD widgets (hotbar unincluded) with a much smoother version
+  - Drumsticks have been replaced with melons, and other widgets have been smoothed out
+- Replaced the wandering trader with a wandering xisumavoid
+- REMOVED CAVE SOUNDS. (now you can put environment sounds to 100%!)
+- Fixed snow so it's [less green.](https://cdn.discordapp.com/attachments/691506932778926161/735283279267364874/WhiterSnow.png)
+- Striders are now happy when in lava
+- Changed the end and nether lightmaps
+- Actually planned out the formatting, next update will be 1.1.0, 1.2.0, and so on, then 1.9.0, 2.0.0, 2.1.0. The cycle repeats! :repeat_one:
+- Added better "hilts" for all tools and weapons
+- Remastered wooden tools
+- Music Disc 13 has been replaced, now it's Piano Fantasia - Song for Denise
+- Animated some mob's movement
+  - The mobs affected are:
+    - Cat
+    - Cave Spider
+    - Creeper
+    - Fox
+    - Ghast
+    - Guardian
+    - Phantom
+    - Sheep
+    - Spider
+    - Squid
+    - Wolf
+- Removed slime variations, they're all now honey slimes
+- Pumpkin holes are now creeper shaped (uwu shaped in the future)
+
 ## [0.9.0] Stardust Update - 2020-07-13
 - Added textures for 3 artifacts and 1 Ultimate Weapon which are:
   - Proxima Centauri, the blade

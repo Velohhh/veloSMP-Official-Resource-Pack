@@ -1,0 +1,7 @@
+{
+	"__comment": "Made by Mickey Joe Alpha",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/dark_acorn"
+    }
+}
