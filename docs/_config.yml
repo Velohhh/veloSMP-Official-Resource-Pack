@@ -7,4 +7,4 @@ description: The official veloSMP Resource Pack
 
 # build settings
 markdown: kramdown
-theme: minima
+theme: cayman
