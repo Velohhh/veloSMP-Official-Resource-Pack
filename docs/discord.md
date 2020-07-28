@@ -1,7 +1,7 @@
 ---
 layout: page
 title: discord
-permalink: /discord/
+filename: discord.md
 ---
 
 Join our discord!
