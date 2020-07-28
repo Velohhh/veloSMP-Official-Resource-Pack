@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: discord
+permalink: /discord/
 ---
 
 Join our discord!
