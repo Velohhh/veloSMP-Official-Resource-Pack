@@ -1,6 +1,23 @@
 # Changelog
 All notable changes since 0.5.1 in the texture pack will be documented in this MD text file.
 
+## [1.1.0] Life of Quality
+- Reverted all musket changes. Muskets are now crossbows again!
+- Made sign textures smoother
+- Hoppers now have arrows on top of them that point where they point to
+- Observer faces now are much more expressive
+- Observers also have arrows the point to where the redstone emitting side is
+  - In addition to that the arrows now light up
+- Removed all custom elytra wing emissive textures
+  - These textures will come back at a later date when Optifine fixes the emissive problem
+- Added the veloSMP Season 2 Celebratory Crown for the winner of the veloSMP Season 2 Ending Tournament
+- Added the very rare albino enderman
+- Fire is now slightly less louder
+- Portal sounds are slightly less louder
+- Iron ore is now emissive
+- The totem of undying texture has been replaced with a wither totem
+- Prepared files for website release
+
 ## [1.0.0] Absolutely Amazing Release
 - Improved the sun again
 - Improved the texture of polished blackstone, making it more volcanic
