@@ -14,7 +14,7 @@ Sadly, yes. It will stay like that until I become friends with someone who actua
 
 If you really want to contribute, you can do it simply by requesting a texture! I will explain this more deeply later :).
 
-# How do I make an issue?
+# How do I make an contribute?
 
 It's actually really easy, here are the steps:
 
