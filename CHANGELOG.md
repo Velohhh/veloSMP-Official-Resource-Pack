@@ -1,6 +1,21 @@
 # Changelog
 All notable changes since 0.5.1 in the texture pack will be documented in this MD text file.
 
+[1.2.0] Explorer Update
+- Removed all glitched spawn egg textures
+- Added custom elytra and weapon textures for nearly everyone
+- Removed all old custom textures
+- Added ultimate item textures
+- Crimson is now redder
+- Maps are now whiter
+- Bows now have colors to signify when they are fully charged
+- Music disc changes have been reverted
+- Tridents are now golden
+- Carved pumpkins are now tophats
+- All doors now have glass
+- Updated pack format
+- Thanked everyone
+
 ## [1.1.0] Life of Quality
 - Reverted all musket changes. Muskets are now crossbows again!
 - Made sign textures smoother
