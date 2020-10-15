@@ -1,7 +1,10 @@
 # Changelog
 All notable changes since 0.5.1 in the texture pack will be documented in this MD text file.
 
-[1.2.0] Explorer Update
+## [1.3.0] Living the Life Update
+- 
+
+## [1.2.0] Explorer Update
 - Removed all glitched spawn egg textures
 - Added custom elytra and weapon textures for nearly everyone
 - Removed all old custom textures
