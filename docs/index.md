@@ -2,81 +2,150 @@
 layout: default
 ---
 
-# Introduction
+![alt text](https://i.imgur.com/9JhQJ0c.png "veloEnhanced Information")
+The feature list will be broken down into 3 parts; Optifine and Vanilla
 
-Hello! Welcome to the official website of veloEnhanced. veloEnhanced is a Minecraft Resource Pack maintained by veloLib. It is the official resource pack for veloLib's Minecraft server.
-
-# Is the resource pack seriously maintained by only 1 person?
-
-Sadly, yes. It will stay like that until I become friends with someone who actually knows how resource packs work. It's like that because I don't really trust anyone that doesn't know how resource packs work to contribute.
-
-# I'd like to contribute!
-
-If you really want to contribute, you can do it simply by requesting a texture! I will explain this more deeply later :).
-
-# How do I contribute?
-
-It's actually really easy, here are the steps:
-
-1. Join the [discord.](bit.ly/velodiscord)
-2. Go to the #◆》server-info channel.
-3. React to the ticket.
-
-# Credits
-
-The credits are actually in the CREDITS.md file, but I'm just gonna copy them here for easy access.
-
-## The Credits
-
-#### FurfSky+ by FurfNSFW (old resources): 
-https://hypixel.net/threads/16x-pack-furfsky-compatibility-hotfix-v1-7-1.2138599/
-
-#### Enhanced Skyblock Textures by VortFX and "Johnny"(old resources): 
-https://hypixel.net/threads/enhanced-skyblock-textures-16x-animated.2549153/
-
-#### ImperiaL's Skyblock Textures by ImperiaL (old resources): 
-https://hypixel.net/threads/hypixel-skyblock-pack-the-complete-pets-update.2103515/ 
-
-#### MinunCraft by MinecraftMinun (new resources, probably unauthorized, no legal stuff): 
-https://www.planetminecraft.com/texture-pack/minuncraft/
-
-#### New Mushrooms by MDE Studio (no legal stuff, new resources): 
-https://www.planetminecraft.com/texture-pack/new-mushroom/
-
-#### Vanilla Tweaks by xisumavoid and his team (no legal stuff, probably unauthorized, new resources):
-https://vanillatweaks.net/
-
-#### Rerender by Ewan Howell (no legal stuff, probably unauthorized, new resources):
-https://www.ewanhowell.com/rerender
-
-#### Brewing Cheatsheet by u/SirAndrewTheThird (no legal stuff, probably unauthorized, new resources):
-https://www.reddit.com/r/Minecraft/comments/eclive/i_completed_my_brewing_cheatsheet_texture/
-
-#### Dark Mojang Loading Screen by Neecko5b84 (no legal stuff, new resources):
-https://www.curseforge.com/minecraft/texture-packs/dark-loading-screen
-
-#### Alternative Iron by robinsnoek (no legal stuff, new resources):
-https://www.curseforge.com/minecraft/texture-packs/alternative-iron
-
-#### Mallards [Cosmetic Addon] by TheZenithKnight (no legal stuff, new resources):
-https://www.curseforge.com/minecraft/texture-packs/mallards-cosmetic-addon
-
-#### Purplier Purpur by spinosgaming (no legal stuff, new resources):
-https://www.curseforge.com/minecraft/texture-packs/purplier-purpur
-
-#### Classic Menu Panorama with Shaders by theCyanideX [Owner] and arkadyaaa [Contributor] (no legal stuff, new resources):
-https://www.curseforge.com/minecraft/texture-packs/classic-menu-panorama-with-shaders
-
-#### Blockstates by mr_ch0c0late (authorized for public use, new resources):
-Curse Forge: 		https://www.curseforge.com/members/mr_ch0c0late1
-Planet Minecraft: 	https://www.planetminecraft.com/member/mr_ch0c0late1/
-Twitter: 			https://twitter.com/mr_ch0c0late1
-
-
-
-
-
-## Legend
+## ![alt text](https://i.imgur.com/eKIfz6R.png "Optifine Logo") Optifine Features
+- Animated Mojang Studios logo (1.14.4 - 1.15.2)
+- Moving mob parts, including and limited to:
+  - Cats
+  - Cave Spiders
+  - Chickens
+  - Creepers
+  - Foxes
+  - Ghasts
+  - Guardians
+  - Phantoms
+  - Sheeps
+  - Spiders
+  - Squids
+  - Wolves
+- Visually different potion textures (including all of them)
+- Optifine CIT weapons (you can request one via the issues section), includes (for now):
+  - My custom sword textures
+  - oHolic's custom sword textures
+  - Legacy axe weapons (name your axe "Acks" or "Endjay")
+  - Legacy miscellaneous items (name your sword "Eater Khopesh", "Eternal Flame", or "Sword of Tomorrow"
+- Visually different enchanted book textures
+- Animated Jukebox
+- Loading screen background when switching dimensions
+- Different GUIs for:
+  - Chests
+  - Shulker Boxes
+  - Droppers
+- Different lightmaps for the End and the Nether
+- Custom night sky texture
+- Emissive textures for a lot of items/blocks
+- Dark mode Mojang loading screen
+- Random and biome-specific mob textures, including and limited to:
+  - Creepers, biome-specific, camouflages to its biome
+  - Endermen, random eyes and rare albino variant
+  - Ghasts, biome-specific
+  - Skeleton Horses, biome-specific (only obtainable via spawning one in a soul sand valley bione)
+  - All Illagers, biome-specific and random
+  - Iron Golem, includes nether variant, biome-specific
+  - Pig, random Technoblade variant (requested by my brother)
+  - Zombified Piglin, random gilded variant
+  - Skeleton, biome-specific, includes SSV variant and other overworld variants
+  - Magma Cubes, biome-specific
+  - Zombies, biome-specific
+  - Blaze, includes frozen blaze variant found in SSVs, biome-specific
+  - Chicken, adds a mallard variant and others! Randomly found
+  - Squid, random variant of big-head squids, normal squids, and glow squids.
+  
+## ![alt text](http://www.rw-designer.com/icon-image/5547-256x256x8.png "Minecraft Logo") Vanilla Features
+- Emissive textures (also applies here)
+- Blockstate textures for blocks such as:
+  - All saplings
+  - Bamboo
+  - Beehives
+  - Bee nests
+  - Cactus
+  - Chorus flowers
+  - Nether warts
+  - Note blocks (YOU CAN SEE THE NOTE!)
+  - Sugar cane
+  - Weeping and twisting vines
+- Invisible totem of undying when held
+- Unobtrusive shields
+- Removed cave sounds
+- Much more "epic" beacon sounds
+- Much "sharper" sweeping sounds
+- Quieter fires
+- Quieter minecarts
+- Minor ender dragon sound tweaks
+- Quieter nether portals
+- Quieter pistons
+- Some music discs are changed, which are:
+  - C418 - 11 -> C418 - 11 with C418 - Eleven extension
+  - C418 - 13 -> C418 - 13 with Notch - Magnetic Circuit (also known as calm4.ogg)
+  - C418 - cat -> C418 - cat with C418 - dog extension (found in Minecraft: Xbox Edition)
+- Glass doors (Excluding crimson)
+- Rounder logs
+- Softer wool
+- Better glazed terracotta
+- Creeper pumpkins and jack 'o lanterns
+- Redder crimson
+- Warped planks fix
+- Grander enchanting table texture
+- Honey alternate textures for slime balls and sticky pistons
+- Animated furnaces
+- Solid slime and honey
+- Better gilded blackstone texture
+- Observer and hopper direction indicators
+- Purpler purpur
+- Much more expressive dispensers, droppers, and observers
+- Better crop textures
+- Prettier pressute plates
+- Different "entity" (according to Minecraft) textures, including and limited to:
+  - Improved banner textures
+  - Improved banner on shield textures
+  - Beeralis
+  - Easily identifiable trapped chests
+  - Better creeper texture
+  - Different end crystal beam
+  - Better ender dragon texture
+  - Xisuma wandering traders and llamas (Added because some textures are "stolen" from VanillaTweaks)
+  - Flint arrow texture
+  - Better spectral arrow texture
+  - Much more purpler shulkers
+  - Jappa signs
+  - Better strider textures (striders look happy when in lava)
+- 3D Sun and Moon
+- Purple end sky
+- Better and much more expressive GUIs for:
+  - Anvils
+  - Beacons
+  - Blast furnaces
+  - Brewing stands (includes brewing guide)
+  - Cartography tables
+  - Crafting tables
+  - Dispensers
+  - Enchanting tables
+  - Furnaces
+  - Grindstones
+  - Hoppers
+  - Loom
+  - Standard shulker boxes
+  - Smoker
+  - Stonecutter
+- HD Minecraft logo
+- NO JAVA EDITION
+- Better title screen panorama
+- Better HUD
+- Much more "expressive" bows (String color changes depending on how long you right click)
+- Much better food textures
+- COOKIE -> CHOCOLATE BAR
+- Animated dragon's breath
+- Different dye textures for each dye
+- Improved tool and weapon textures
+- Golden trident
+- White map
+- NO PUMPKIN BLUR
+- Carved pumpkin -> Stylish tophat
+- Whiter iron texture
+- Pig scene painting texture -> My logo
+- Better particles
 
 - (old resources) = Formerly used.
 - (new resources)= Already used/planned to be used PARTIALLY or FULLY.
