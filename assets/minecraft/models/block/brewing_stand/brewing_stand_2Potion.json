@@ -1,0 +1,111 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "brewing_stand",
+	"textures": {
+		"4": "block/brewing_stand1",
+		"particle": "block/brewing_stand_base"
+	},
+	"elements": [
+		{
+			"from": [6.5, 2, 11],
+			"to": [9.5, 3, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16.5, 10, 21]},
+			"faces": {
+				"north": {"uv": [1, 13, 4, 14], "texture": "#4"},
+				"east": {"uv": [1, 13, 4, 14], "texture": "#4"},
+				"south": {"uv": [1, 13, 4, 14], "texture": "#4"},
+				"west": {"uv": [1, 13, 4, 14], "texture": "#4"},
+				"up": {"uv": [0, 0, 3, 3], "texture": "#4"},
+				"down": {"uv": [1, 13, 4, 14], "texture": "#4"}
+			}
+		},
+		{
+			"from": [6.5, 6, 11],
+			"to": [9.5, 7, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16.5, 14, 21]},
+			"faces": {
+				"north": {"uv": [1, 9, 4, 10], "texture": "#4"},
+				"east": {"uv": [1, 9, 4, 10], "texture": "#4"},
+				"south": {"uv": [1, 9, 4, 10], "texture": "#4"},
+				"west": {"uv": [1, 9, 4, 10], "texture": "#4"},
+				"up": {"uv": [1, 13, 4, 14], "texture": "#4"},
+				"down": {"uv": [0, 0, 3, 3], "texture": "#4"}
+			}
+		},
+		{
+			"from": [6.5, 8, 11],
+			"to": [9.5, 9, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16.5, 16, 21]},
+			"faces": {
+				"north": {"uv": [1, 9, 2, 10], "texture": "#4"},
+				"east": {"uv": [1, 13, 4, 14], "texture": "#4"},
+				"south": {"uv": [3, 9, 4, 10], "texture": "#4"},
+				"west": {"uv": [1, 9, 2, 10], "texture": "#4"},
+				"up": {"uv": [1, 13, 4, 14], "texture": "#4"},
+				"down": {"uv": [4, 12, 5, 13], "texture": "#4"}
+			}
+		},
+		{
+			"from": [7.5, 7, 12],
+			"to": [8.5, 8, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16.5, 15, 21]},
+			"faces": {
+				"north": {"uv": [2, 10, 3, 11], "texture": "#4"},
+				"east": {"uv": [2, 10, 3, 11], "texture": "#4"},
+				"south": {"uv": [2, 10, 3, 11], "texture": "#4"},
+				"west": {"uv": [2, 10, 3, 11], "texture": "#4"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#4"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#4"}
+			}
+		},
+		{
+			"from": [7.5, 9, 12],
+			"to": [8.5, 10, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16.5, 17, 21]},
+			"faces": {
+				"north": {"uv": [3, 4, 4, 5], "texture": "#4"},
+				"east": {"uv": [3, 4, 4, 5], "texture": "#4"},
+				"south": {"uv": [3, 4, 4, 5], "texture": "#4"},
+				"west": {"uv": [2, 8, 3, 9], "texture": "#4"},
+				"up": {"uv": [3, 4, 4, 5], "texture": "#4"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#4"}
+			}
+		},
+		{
+			"from": [5.5, 3, 10],
+			"to": [10.5, 6, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16.5, 11, 21]},
+			"faces": {
+				"north": {"uv": [0, 10, 5, 13], "texture": "#4"},
+				"east": {"uv": [0, 10, 5, 13], "texture": "#4"},
+				"south": {"uv": [0, 10, 5, 13], "texture": "#4"},
+				"west": {"uv": [0, 10, 5, 13], "texture": "#4"},
+				"up": {"uv": [0, 11, 1, 12], "texture": "#4"},
+				"down": {"uv": [4, 12, 5, 13], "texture": "#4"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "brewingstand",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "potion1",
+					"origin": [8, 8, 8],
+					"children": []
+				},
+				{
+					"name": "potion2",
+					"origin": [8, 8, 8],
+					"children": [0, 1, 2, 3, 4, 5]
+				},
+				{
+					"name": "potion2",
+					"origin": [8, 8, 8],
+					"children": []
+				}
+			]
+		}
+	]
+}

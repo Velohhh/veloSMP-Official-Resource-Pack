@@ -1,0 +1,89 @@
+{
+  "multipart": [
+    {
+      "apply": [
+        {
+          "model": "minecraft:block/brewing_stand/brewing_stand"
+        },
+        {
+          "model": "minecraft:block/brewing_stand/brewing_stand",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/brewing_stand/brewing_stand",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/brewing_stand/brewing_stand",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "has_bottle_0": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/brewing_stand/brewing_stand_1Potion"
+        },
+        {
+          "model": "minecraft:block/brewing_stand/brewing_stand_1Potion",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/brewing_stand/brewing_stand_1Potion",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/brewing_stand/brewing_stand_1Potion",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "has_bottle_1": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/brewing_stand/brewing_stand_2Potion"
+        },
+        {
+          "model": "minecraft:block/brewing_stand/brewing_stand_2Potion",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/brewing_stand/brewing_stand_2Potion",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/brewing_stand/brewing_stand_2Potion",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "has_bottle_2": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/brewing_stand/brewing_stand_3Potion"
+        },
+        {
+          "model": "minecraft:block/brewing_stand/brewing_stand_3Potion",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/brewing_stand/brewing_stand_3Potion",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/brewing_stand/brewing_stand_3Potion",
+          "y": 270
+        }
+      ]
+    }
+  ]
+}

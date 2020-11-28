@@ -1,8 +1,92 @@
 # Changelog
 All notable changes since 0.5.1 in the texture pack will be documented in this MD text file.
 
+## [1.4.0] Random Update
+- Added variated and connected bookshelf textures
+- Added a 3D Brewing Stand texture
+- Added ore variants and made their textures colorblind-friendly
+- All food that needs bowls have spoons
+- Glass doors for crimson doors have been added
+- Fixed the oak door texture
+- Added 13 hats with the names:
+  - [Color] Witch Hat or just Witch Hat = Witch Hat
+  - Straw Hat = Straw Hat
+  - Megumin Hat = Megumin's Hat
+  - Tophat = Tophat
+  - Ushanka = Tundra Villager Hat
+  - Leaf Hat = Swamp Villager Hat
+  - Leaf Tiara = Acacia Villager Hat
+  - Cap = Fletcher Vilager Hat
+  - Fisherman's Hat = Fisherman Villager Hat
+  - Metal Goggles = Armorsmith Villager Hat
+  - Desert Hat = Desert Villager Hat
+  - Fedora = Villager Hat
+  - Beret = Librarian Villager Hat
+- Made pressure plates better
+- Made custom textures for the soil on every single flower pot plant
+- Turned the Mojang Studios logo into a Mojang Studios veloEnhanced logo
+- Removed animated mob parts from every mob except the phantom
+- Removed all CIT textures
+- Added CIT textures, which are:
+  - Dungeons Iron Sword = Minecraft: Dungeons Iron Sword = Iron Sword
+  - Dungeons Diamond Sword = Minecraft: Dungeons Diamond Sword = Diamond Sword
+  - Dungeons Emerald Sword = Minecraft: Dungeons Emerald Sword = Netherite Sword
+  - Sol Magnam/Solar Flare/Sun's Grace = Minecraft: Dungeons Sun's Grace = Diamond/Netherite Axe
+  - Beskar Helmet = Beskar Helmet from the Mandalorian Series = Netherite Helmet
+- Brick texture is now more variated
+- Removed obsolete and annoying emissive textures
+- Animated all the furnace blocks and centered the blast furnace
+- Made prismarine bricks tilable
+- Made fire better and less "outdated" to look more like the campfire fire
+- Sunflowers are now taller and better
+- Turned dragon fireball to bedrock texture
+- Replaced the sun and moon with their respective 3D Textures
+- Removed the Java Edition part of the Minecraft logo
+- Bow and crossbow textures are now much smoother
+- Removed the quiver texture that triggers when you have 64 arrows
+- Armor is now much more realistic and the helmet texture makes sense
+- Clocks and Compasses now use their 20w48a textures
+- Pickaxes are pointier
+- Lava buckets look hot (literally) and are animated
+- Music discs are now viewed from a top-down view
+- All music disc sounds have been removed, except for 11, 13, and Cat
+  - 11's extension is C418 - Eleven
+  - 13's extension is calm3.ogg
+  - Cat's extension is C418 - Dog
+- The veloEnhanced logo is now the 3D version
+- Added a Microsoft Excel file that contains all the named item names (Openable in Excel or Google Sheets)
+
 ## [1.3.0] Living the Life Update
-- 
+- Fixed the en_us.lang file
+- Changed every single spawn egg (now all reverted)
+- Replaced every single potion texture
+- Added container textures for nearly every container
+- Replaced creeper textures into their Minecraft: Dungeons counterpart
+- Made albino endermen rarer
+- Added and replaced more random mob textures, includes:
+  - Creeper, biome-specific
+  - Skeleton Horse, includes soul sand valley variant
+  - Ghast, biome-specific
+  - Illager, mostly random, some biome-specific
+  - Iron Golem, nether variants
+  - Skeleton, biome-specific and nether types
+  - Magma Cubes, biome-specific
+  - Zombie, biome-specific
+  - Blaze, soul sand valley "Soul Blaze" variant
+  - Chickens, biome-specific
+- Changed some sounds
+- Replaced some music discs, which are:
+  - Far -> ShinkoNet - Blast in Banter Battle
+  - Mall -> ShinkNet - Dungeon Drama
+  - Strad -> Hyperdron - Interdimensional
+  - Ward -> Sir Catcelot - Superior Judgement
+  - All of the music discs are going to be used for the veloSMP Weekly Events
+- Animated the furnace texture
+- Made the enchanting table texture more "grand"
+- Made glazed terracotta actually look usable
+- Reverted diamond textures
+- Other changes I forgot
+- Thanks.
 
 ## [1.2.0] Explorer Update
 - Removed all glitched spawn egg textures
@@ -118,7 +202,7 @@ All notable changes since 0.5.1 in the texture pack will be documented in this M
 - Fixed Parsa's texture
 - Haven't found a replacement for C418 - Wait
 - Changed pack.png
-- Prepared pack for Official Release [0.1.0]!
+- Prepared pack for Official Release [1.0.0]!
 
 ## [0.8.0] Season 2 Update - 2020-07-04
 - Added textures for everyone
@@ -135,7 +219,7 @@ All notable changes since 0.5.1 in the texture pack will be documented in this M
  - Emissive textures don't include tools and weapons because it'd conflict with custom weapons.
  - Emissive textures can be enabled/disabled by going to Options > Video Settings > Quality > Emissive Textures ON/OFF
 - Added folders for the upcoming Ultimate Armors
-/
+
 ## [0.5.2] - Drogoz Update - 2020-06-20
 - Added Drogoz texture for Alde per his request.
 

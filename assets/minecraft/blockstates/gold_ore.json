@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": [ { "model": "block/gold_ore", "weight": 19 }, { "model": "block/gold_ore1", "weight": 1 } ]
+    }
+}
