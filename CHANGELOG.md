@@ -1,6 +1,14 @@
 # Changelog
 All notable changes since 0.5.1 in the texture pack will be documented in this MD text file.
 
+## [1.4.1] Texture Fix One
+- Updated .lang file
+- Dark mode textures with better GUIs
+- Dark mode options background
+- Every item that is made out of sticks/wood has jappa wood
+- Bowl and Spoon
+- Pixel-Art-y paintings
+
 ## [1.4.0] Random Update
 - Added variated and connected bookshelf textures
 - Added a 3D Brewing Stand texture
