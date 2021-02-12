@@ -1,6 +1,14 @@
 # Changelog
 All notable changes since 0.5.1 in the texture pack will be documented in this MD text file.
 
+## [1.5.0] Updating the Unupdated
+- Sweep, critical, sharpness, and health takeaway particles have tinted red
+- Melon hunger bar -> Glow berry hunger bar
+- Updated enchanted books (now more unique)
+- Updated note block block notation
+- Turned enchantment particles rainbow(?)
+- Updated music discs (animated disc 13)
+
 ## [1.4.1] Texture Fix One
 - Updated .lang file
 - Dark mode textures with better GUIs
